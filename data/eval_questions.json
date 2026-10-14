@@ -1,0 +1,12 @@
+[
+  {"question": "How do I mock a network request in a test?", "expect_source": "request-mocking.md"},
+  {"question": "What is storage state and what is it used for?", "expect_source": "storage-state.md"},
+  {"question": "How do I record a video of a browser session?", "expect_source": "video-recording.md"},
+  {"question": "How do I run code against a page?", "expect_source": "running-code.md"},
+  {"question": "What is tracing and what does a trace file contain?", "expect_source": "tracing.md"},
+  {"question": "How do I generate tests from a spec?", "expect_source": "spec-driven-testing.md"},
+  {"question": "How do I manage a browser session?", "expect_source": "session-management.md"},
+  {"question": "What is the capital of France?", "expect_source": ""},
+  {"question": "How do I bake sourdough bread?", "expect_source": ""},
+  {"question": "What is the best stock to buy this year?", "expect_source": ""}
+]

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Generated index (rebuilt by `python -m rag.ingest.cli`)
+data/index.json
+reports/eval_summary.json
+
+# Secrets
+.env
+*.key
+*token*
+*secret*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
